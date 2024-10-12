@@ -19,8 +19,8 @@ SHC Patcher is a Rust tool designed to patch ELF (Executable and Linkable Format
 
 1. Clone this repository:
    ```
-   git clone https://github.com/hambosto/shc-patcher-rs.git
-   cd shc-patcher-rs
+   git clone https://github.com/hambosto/shc-patcher.git
+   cd shc-patcher
    ```
 
 2. Build the project:
